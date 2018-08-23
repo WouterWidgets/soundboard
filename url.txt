@@ -1,0 +1,1 @@
+https://www.google.com/speech-api/v1/synthesize?ie=UTF-8&lang=en-GB&speed=0.5&pitch=0.5&volume=1&text=You+bloody+wanker
