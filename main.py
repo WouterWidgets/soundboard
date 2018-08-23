@@ -221,7 +221,7 @@ if __name__ == '__main__':
 		elif keyInput == '\'\\x1b[2\'': # Ins (unused)
 			print("Ins")
 
-		elif keyInput == '\'\\x1b[3~\'': # Del (unused)
+		elif keyInput == '\'\\x1b[3~\'': # Del
 			print("Del")
 			playFile()
 

@@ -21,35 +21,41 @@ Run `python3 main.py`
 `1`, `2`, `3`,<br>
 `0`, `.`<br>
 Sound 1-13
-<br><br>
+<br>
 
 `+`<br>
 Next page
-<br><br>
+<br>
 
 `-`<br>
 Previous page
-<br><br>
+<br>
 
 `Backspace`<br>
 Go to page 1
-<br><br>
+<br>
 
 `Return` / `Enter`<br>
 Stop playback of current sound
-<br><br>
+<br>
+
+`Del` / `Delete`<br>
+Plays all paths/URL's inside the `url.txt` file
+`<br>
+
+<br>
 
 `Home`<br>
 Reboot device (runs `sudo reboot`)
-<br><br>
+<br>
 
 `End`<br>
 Exits the program
-<br><br>
+<br>
 
 `PageUp`<br>
 Reconnect wifi (runs `sudo ifup wlan0`)
-<br><br>
+<br>
 
 `PageDown`<br>
 Disconnect wifi (runs `sudo ifdown wlan0`)
